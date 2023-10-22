@@ -31,6 +31,7 @@
   - ReactJs Hooks
 - Material ui - Library
 - react-vertical-timeline-component - Library
+- Fontawesome - Library
 
 
 ## Author
