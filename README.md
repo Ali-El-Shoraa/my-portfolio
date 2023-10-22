@@ -29,7 +29,9 @@
   - JSX
   - ReactJs Router
   - ReactJs Hooks
-- Material ui Library
+- Material ui - Library
+- react-vertical-timeline-component - Library
+
 
 ## Author
 
