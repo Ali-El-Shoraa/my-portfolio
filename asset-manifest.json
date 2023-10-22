@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.250c06de.css",
+    "main.js": "/my-portfolio/static/js/main.6f7aeb35.js",
+    "static/media/screen_elzero.png": "/my-portfolio/static/media/screen_elzero.05f6dbb9630916de7391.png",
+    "static/media/news-homepage-main.jpg": "/my-portfolio/static/media/news-homepage-main.4cd80f90f5762492c577.jpg",
+    "static/media/clipboard-landing-page-master.jpg": "/my-portfolio/static/media/clipboard-landing-page-master.47c0b8afeaa339c4a759.jpg",
+    "static/media/date-and-time.png": "/my-portfolio/static/media/date-and-time.a20685b852b6b479e4db.png",
+    "static/media/results-summary-component-main.jpg": "/my-portfolio/static/media/results-summary-component-main.42fb2254f1abc6f1d366.jpg",
+    "static/media/tip_calculator.jpg": "/my-portfolio/static/media/tip_calculator.99d11dcbe1eea43cf046.jpg",
+    "static/media/random-color.png": "/my-portfolio/static/media/random-color.8c134a305d828f6d562b.png",
+    "static/media/advice_generator_app.jpg": "/my-portfolio/static/media/advice_generator_app.dcac8ad8ba55a2e584b7.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.250c06de.css.map": "/my-portfolio/static/css/main.250c06de.css.map",
+    "main.6f7aeb35.js.map": "/my-portfolio/static/js/main.6f7aeb35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.250c06de.css",
+    "static/js/main.6f7aeb35.js"
+  ]
+}
